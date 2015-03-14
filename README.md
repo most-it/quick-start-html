@@ -1,5 +1,7 @@
 # Quick Start HTML
 
+[![Build Status](https://travis-ci.org/most-it/quick-start-html.svg?branch=master)](https://travis-ci.org/most-it/quick-start-html)
+
 Шаблон для HMTL проектов
 
 ## 1. Структура
